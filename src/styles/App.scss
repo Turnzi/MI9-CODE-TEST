@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.app-container {
+
+  .header {
+    height: 100px;
+    background: limegreen;
+
+    .logo {
+      height: 100px;
+      width: 100%;
+      background-image: url("../assets/logo.png");
+      background-position: 15px 10px;
+      background-repeat: no-repeat;
+      float: left;
+    }
+  }
+  .main {
+    background-image: url("../assets/cafe.png");
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    min-height: 86.6%;
+    width: 100%;
+    position: absolute;
+  }
+}
+

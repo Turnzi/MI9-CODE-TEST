@@ -1,0 +1,31 @@
+.form {
+  background-color: ghostwhite;
+  opacity: 0.9;
+  width: 500px;
+  margin: 6rem auto;
+
+  form {
+    padding: 30px;
+
+    button {
+      margin-left: 22.6rem;
+      background-color: limegreen !important;
+      border-color: limegreen !important;
+    }
+  }
+
+  .content {
+    background-color: ghostwhite !important;
+    color: limegreen !important;
+    opacity: 0.9;
+    width: 500px;
+    margin: 15rem auto;
+    text-align: center;
+    padding: 25px;
+
+    .title{
+      font-weight: bold !important;
+      margin-bottom: 0rem !important;
+    }
+  }
+}
